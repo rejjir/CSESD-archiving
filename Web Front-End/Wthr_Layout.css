@@ -1,0 +1,128 @@
+
+body {background-color: #dddddd}
+
+caption {
+font-size: 14pt;
+text-align: center;
+margin-bottom: 6px;
+}
+
+table {
+font-size: 13pt;
+margin-left:auto; 
+margin-right:auto;
+margin-bottom: 3px;
+margin-top: 0px;
+border-spacing:1px;
+padding-left: 11px;
+padding-right: 11px;
+border: 1px solid #000000;
+}
+
+table.index {
+font-size: 13pt;
+margin-left:auto; 
+margin-right:auto;
+margin-bottom: 3px;
+margin-top: 0px;
+border-spacing:1px;
+padding-left: 11px;
+padding-right: 11px;
+border: 0px;
+border-bottom: 1px solid #000000;
+}
+
+td {
+padding-left: 6px;
+padding-right: 6px;
+}
+
+tr.inner {
+vertical-align: top;
+}
+
+table.innerTable {
+font-size: 11pt;
+margin-left: 1px; 
+margin-right: 1px;
+padding-left: 3px;
+padding-right: 3px;
+border: 0px solid #222277;
+}
+
+.mid {
+text-align: center;
+}
+
+p.links{
+text-align: left;
+margin-left: 22px;
+margin-top: 13px;
+}
+
+table.dateSelect {
+border: none;
+margin-top: 0px;
+}
+
+table.mainWrap {
+border: 0px;
+margin-top: 12px;
+}
+
+table.dateSelectInner {
+border: none;
+margin-top: 0px;
+}
+
+caption.ds {
+font-size: 12pt;
+text-align: center;
+margin-bottom: 0px;
+}
+
+.subTitle {
+font-size: 14pt;
+text-align: center;
+border-top: 1px solid #000000;
+border-bottom: 1px solid #000000;
+padding-top: 12px;
+padding-bottom: 12px;
+}
+
+#banner {
+text-align: center;
+margin-left:auto; 
+margin-right:auto;
+margin-bottom: 3px;
+margin-top: 6px;
+}
+
+#aboutTitle {
+font-size: 14pt;
+text-align: center;
+}
+
+#check {
+text-align: center;
+margin-top: 4px;
+margin-bottom: 4px;
+}
+
+#qhTable {
+font-size: 11pt;
+}
+
+#dayTable {
+font-size: 11pt;
+}
+
+#qhHead {
+font-size: 11pt;
+font-weight:bold;
+}
+
+#dayHead {
+font-size: 11pt;
+font-weight:bold;
+}
